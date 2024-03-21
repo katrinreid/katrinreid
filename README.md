@@ -18,5 +18,5 @@
 <br>
 <br>
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=EkaterinaRid&hide=tcl&theme=dark&show_icons=true)](https://github.com/EkaterinaRid)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=EkaterinaRid&theme=dark&show_icons=true)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=katrinreid&hide=tcl&theme=dark&show_icons=true)](https://github.com/katrinreid)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=katrinreid&theme=dark&show_icons=true)
