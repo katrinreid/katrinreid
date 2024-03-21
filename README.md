@@ -1,18 +1,22 @@
 ### Hi there 👋
 
 
-**EkaterinaRid/EkaterinaRid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EkaterinaRid/EkaterinaRid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
 
-Here are some ideas to get you started:
+Проекты:
+1. http://bgcheck.frprf.ru
+   - Веб-приложение для анализа банковских гарантий
+   - Анализ посредством нейронной сети и нахождением отличий в документах по маркерам
+   - Используемые технологии:
+     - Python
+     - Flask
+     - Nginx, Gunicorn
+     - RedOS
+     - YandexCloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>
+<br>
+<br>
 
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=EkaterinaRid&hide=tcl&theme=dark&show_icons=true)](https://github.com/EkaterinaRid)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=EkaterinaRid&theme=dark&show_icons=true)
